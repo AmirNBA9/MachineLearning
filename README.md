@@ -1,2 +1,2 @@
 # MachineLearning
-This is a example Repo for ML Class 
+This is an example Repo for ML Class 
